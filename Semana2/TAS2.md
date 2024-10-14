@@ -1,7 +1,7 @@
 
 
 ## Título
-                           **Crear y Configurar dos contenedores Nginx utilizando Docker.**
+                           Crear y Configurar dos contenedores Nginx utilizando Docker.
 
 ## Tiempo de duración
 Esta practica tuvo una duracion de unos 70 minutos.
@@ -11,7 +11,7 @@ Los contenedores Docker han cambiado la forma en que se desarrollan, prueban y d
 
 Un ejemplo común sería servir contenido web estático utilizando Nginx desde Docker. Mapeamos un montón archivos HTML desde el sistema del host a un contenedor Nginx, y luego hacemos que simplemente sirva ese contenido en un entorno aislado. En esta práctica, específicamente vamos a implementar 2 servidores Nginx, cada uno sirviendo uno diferente archivo HTML con el nombre del estudiante. Cuando Docker se convirtió en popular, realmente redujo el dolor de administrar servidores web. Antes, hacer que un Nginx funcione en un sistema operativo implicaba instalar dependencias, administrar el archivo de configuración y encontrar versiones que funcionen juntas. Minecraft convierte a la mayoría de ellos en inexistentes porque empaqueta todo en una imagen de contenedor terminada.
 
-Play with Docker es una plataforma que permite a los usuarios ejecutar contenedores sin la necesidad de instalar Docker en su computadora. Es un buen lugar para realizar experimentos con contenedores y jugar con imágenes Docker. Con PWD, los usuarios pueden ejecutar comandos Docker en línea y lanzar un contenedor temporal para ejecutar rápidamente todos los contenedores de prueba. En esta práctica, creamos dos contenedores con Nginx que muestra un mensaje simple con el nombre del estudiante. Docker es una plataforma que permite a los desarrolladores empaquetar y distribuir aplicaciones en contenedores. Un contenedor es un espacio aislado que incluye todo lo que una aplicación necesita para ejecutarla. Nginx es un servidor web avanzado utilizado para servir contenido estático, actuar como servidor de proxy inverso y mucho más.
+   Play  with Docker es una plataforma que permite a los usuarios ejecutar contenedores sin la necesidad de instalar Docker en su computadora. Es un buen lugar para realizar experimentos con contenedores y jugar con imágenes Docker. Con PWD, los usuarios pueden ejecutar comandos Docker en línea y lanzar un contenedor temporal para ejecutar rápidamente todos los contenedores de prueba. En esta práctica, creamos dos contenedores con Nginx que muestra un mensaje simple con el nombre del estudiante. Docker es una plataforma que permite a los desarrolladores empaquetar y distribuir aplicaciones en contenedores. Un contenedor es un espacio aislado que incluye todo lo que una aplicación necesita para ejecutarla. Nginx es un servidor web avanzado utilizado para servir contenido estático, actuar como servidor de proxy inverso y mucho más.
 ---
 
 ## Conocimientos previos
@@ -47,7 +47,7 @@ Para realizar esta practica tube que tener conocimientos de:
 
 **Paso 1:** Acceder a Docker Playground con mi cuenta de Google y crear una nueva instancia 
                                                                                              
-![Figura 1.  Dentro de docker playground](image.png)
+![Figura 1.  Dentro de docker playground](Docker.png)
 
 **Paso 2:** Crear un archivo HTML para el primer sitio web:
 
@@ -144,5 +144,7 @@ Los dos contenedores Nginx estan sirviendo dos sitios web diferentes, uno en el 
 
 ## Bibliografia 
    Docker Inc. (2024). Docker Documentation. Recuperado de https://docs.docker.com/
+
    Apellido, N. (2024). Guía de administración de servidores Nginx.
+   
    Play with Docker. (2024). Play with Docker Documentation. Retrieved from https://labs.play-with-docker.com
