@@ -16,7 +16,7 @@ Esta practica tuvo una duracion de unos 70 minutos.
 
 
 ## Conocimientos previos
-Para realizar esta practica tube que tener conocimientos de:
+Para realizar esta practica requeria tener conocimientos de:
 
 - **Comandos basicos Linux**: especialmente los relacionados con la gestión de archivos y directorios (`ls`, `mkdir`, `mv`, `pwd`, `echo`).
 
@@ -31,7 +31,7 @@ Para realizar esta practica tube que tener conocimientos de:
 ---
 
 ## Equipo necesario
-- laptop con coneccion a Internet
+- laptop con conexion a Internet
 - Acceso a [Docker Playground](https://labs.play-with-docker.com/)
 
 
