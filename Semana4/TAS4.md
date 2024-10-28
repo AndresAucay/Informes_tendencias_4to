@@ -146,7 +146,7 @@ Para realizar esta practica requeria tener conocimientos de:
 
 **Paso 11:** Crear una tabla para verificar que se creo la base de datos correctamente:
 
-![Figura 11. Creacion de la tabla 'customers'](Figura11.png.)
+![Figura 11. Creacion de la tabla 'customers'](Figura11.png)
 ![Imagen 11.1 Verificar que la tabla se creo](Imagen11.1.png)
 
 
