@@ -115,7 +115,7 @@ Para realizar esta práctica, fue necesario tener conocimientos básicos de:
 ![Figura 9. Creacion del contenedor](image-9.png)
                                                                                              
 
-**Paso 10:** Porbar el funcionamiento ejecutando "localhost:8081/users":
+**Paso 11:** Porbar el funcionamiento ejecutando "localhost:8081/users":
 
 ![Figura 10. Verificacion de su Funcionamineto](image-10.png)
 
